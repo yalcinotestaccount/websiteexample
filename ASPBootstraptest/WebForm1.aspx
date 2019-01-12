@@ -21,7 +21,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Yalcin- auto build</a>
+                <a class="navbar-brand" href="#">Release 3</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
